@@ -1,0 +1,15 @@
+body {
+    background-color: #000;
+}
+
+#net {
+	margin-left: -5px;
+    width: 1%;
+    height: 100%;
+	border-left-width: 10px;
+	border-left-color: #FFF;
+	border-left-style: dotted;
+    position: fixed;
+	float: left;
+    left: 50%;
+}
